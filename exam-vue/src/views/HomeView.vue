@@ -1,0 +1,5 @@
+<template>
+    <div class="text-center">
+        <h1 class="display-4">Exam</h1>
+    </div>
+</template>
